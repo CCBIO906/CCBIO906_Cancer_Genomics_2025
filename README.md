@@ -14,7 +14,7 @@ https://www4.uib.no/en/studies/courses/ccbio906
 https://www.uib.no/en/ccbio/179177/ccbio906-cancer-genomics-2025      
 
 ### Time schedule & Literature curriculum 
-Download here: https://filesender.sikt.no/?s=download&token=41a53f94-f168-4fc8-8fb0-0dc20a16b224 (Time schedule and list of literature)      
+Download here: https://filesender.sikt.no/?s=download&token=41a53f94-f168-4fc8-8fb0-0dc20a16b224            
 
 ### PDF of all listed papers
 Download here, around 200 MB | https://filesender.sikt.no/?s=download&token=ac50cb16-3412-42d8-ae41-1d9d5ecee96c     
