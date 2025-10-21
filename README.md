@@ -10,12 +10,12 @@ This is your go-to website for CCBIO906/CancerGenomics course information.
 Time: 21-23 October 2025  
 
 ### Group work
-#### Groups
-Group1 | Fatemeh, Johanna, Nicolas          
-Group2 | Malin, Hatice Toprak, Kadri          
-Group3 | Olav Arne, Hassan, Renate, Daniel         
+#### A) Groups
+**Group1** | Fatemeh, Johanna, Nicolas          
+**Group2** | Malin, Hatice Toprak, Kadri          
+**Group3** | Olav Arne, Hassan, Renate, Daniel         
 
-#### Group assignment     
+#### B) Group assignment     
 <img width="1139" height="602" alt="image" src="https://github.com/user-attachments/assets/b0ce130b-1695-4cd0-a884-b9b4d4a6d71c" />
 
 ### Course description
