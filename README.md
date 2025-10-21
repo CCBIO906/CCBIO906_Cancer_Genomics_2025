@@ -12,10 +12,11 @@ Time: 21-23 October 2025
 ### Group work
 #### Groups
 Group1 | Fatemeh, Johanna, Nicolas          
-Group2 | Malin, Hatice Toprak, Kadri        
-Group3 | Olva Arne, Hassan, Renate, Daniel         
-<img width="1139" height="602" alt="image" src="https://github.com/user-attachments/assets/b0ce130b-1695-4cd0-a884-b9b4d4a6d71c" />
+Group2 | Malin, Hatice Toprak, Kadri          
+Group3 | Olav Arne, Hassan, Renate, Daniel         
 
+#### Group assignment     
+<img width="1139" height="602" alt="image" src="https://github.com/user-attachments/assets/b0ce130b-1695-4cd0-a884-b9b4d4a6d71c" />
 
 ### Course description
 https://www4.uib.no/en/studies/courses/ccbio906     
