@@ -9,6 +9,18 @@ This is your go-to website for CCBIO906/CancerGenomics course information.
 **Coordiator:** Siren.Fromreide@uib.no  
 Time: 21-23 October 2025  
 
+### Keynote lecture     
+As CCBIO906 is approaching its end, we will finish off with the key lecture by **Rameen Beroukhim**, and this is a definite highlight of the course. Do not miss it.
+Rameen is located in Boston, MA, and is affiliated with Dana-Farber Cancer Institute, Harvard medical school, and the Broad intitute, one of the largest sequencing centers in the world. He focuses on brain cancer, but has a broad cancer interest, amongst them some collaborations in Bergen. He has been instrumental in TCGA CNA-working group, pan-cancer projects and develops his own analysis tools.        
+
+Pubmed | https://pubmed.ncbi.nlm.nih.gov/?term=beroukhim+r%5Bau%5D&sort=date&size=200      
+
+Zoom:  
+📌 https://uib.zoom.us/j/68319455395?pwd=XzEO7AQZtYfiUmQ06cUbIIUeESZUkJ.1        
+Topic | CCBI906_CancerGenomics        
+Meeting ID |683 1945 5395     
+Passcode | 6yqgkRp3   
+
 ### Group work
 #### A) Groups
 **Group1** | Fatemeh, Johanna, Nicolas          
