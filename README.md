@@ -9,7 +9,8 @@ This is your go-to website for CCBIO906/CancerGenomics course information.
 **Coordiator:** Siren.Fromreide@uib.no  
 Time: 21-23 October 2025  
 
-### After course | GW assignment, lectures and your opinion
+### After course | GW assignment submission, lectures and your opinion
+Pay attention to A1-A3 below.        
 
 ### A1) Group work assignment SUBMISSION
 Please submit your assignment here: https://skjemaker.app.uib.no/view.php?id=20172721 (deadline 07.November)   
