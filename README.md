@@ -26,18 +26,6 @@ https://filesender.sikt.no/?s=download&token=06f28a16-c99c-4837-8147-e7b8b9347ff
 
 ----------------------------------------------
 
-### Keynote lecture     
-As CCBIO906 is approaching its end, we will finish off with the key lecture by **Rameen Beroukhim**, and this is a definite highlight of the course. Do not miss it.
-Rameen is located in Boston, MA, and is affiliated with Dana-Farber Cancer Institute, Harvard medical school, and the Broad intitute, one of the largest sequencing centers in the world. He focuses on brain cancer, but has a broad cancer interest, amongst them some collaborations in Bergen. He has been instrumental in TCGA CNA-working group, pan-cancer projects and develops his own analysis tools.        
-
-Pubmed | https://pubmed.ncbi.nlm.nih.gov/?term=beroukhim+r%5Bau%5D&sort=date&size=200      
-
-Zoom:  
-📌 https://uib.zoom.us/j/68319455395?pwd=XzEO7AQZtYfiUmQ06cUbIIUeESZUkJ.1        
-Topic | CCBI906_CancerGenomics        
-Meeting ID |683 1945 5395     
-Passcode | 6yqgkRp3   
-
 ### Group work
 #### A) Groups
 **Group1** | Fatemeh, Johanna, Nicolas          
@@ -57,6 +45,8 @@ Download here: https://filesender.sikt.no/?s=download&token=41a53f94-f168-4fc8-8
 ### PDF of all listed papers
 Download here, around 200 MB | https://filesender.sikt.no/?s=download&token=ac50cb16-3412-42d8-ae41-1d9d5ecee96c     
 (PDF of all individual papers in literature list)     
+
+
 
 
 
