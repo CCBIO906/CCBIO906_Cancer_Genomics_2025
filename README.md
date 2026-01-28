@@ -6,45 +6,17 @@ This is your go-to website for CCBIO906/CancerGenomics course information.
 
 **This site:** https://github.com/CCBIO906/CCBIO906_Cancer_Genomics_2025        
 **Main responsible:** Erling.Hoivik@uib.no    
-**Coordiator:** Siren.Fromreide@uib.no  
-Time: 21-23 October 2025  
+RunTime: 21-23 October 2025  
+   
+### Course description (3 ECTs)     
+https://www4.uib.no/en/studies/courses/ccbio906       
+https://www.uib.no/en/ccbio/179177/ccbio906-cancer-genomics-2025       
 
-### After course | GW assignment submission, lectures and your opinion
-Pay attention to A1-A3 below.        
+## End note
+This course for 2025 has now concluded.   
+Thanks to all students and lectureres that made this course a great success.       
 
-### A1) Group work assignment SUBMISSION
-Please submit your assignment here: https://skjemaker.app.uib.no/view.php?id=20172721 (deadline 07.November)   
-
-### A2) Course feedback
-Please provide feedback to the course here. This is important for assessing further activities of CCBIO906 the next years. 
-https://skjemaker.app.uib.no/view.php?id=20175276 (short survey)  
-
-### A3) Access slides from presentations
-Here you can access the slides from most of the lectures, plus some papers added in for *"curious reading"* from Aashish.         
-**These have been kindly shared with us. Keep private - do not share or distribute these further**     
-https://filesender.sikt.no/?s=download&token=06f28a16-c99c-4837-8147-e7b8b9347ffa           
-
-----------------------------------------------
-
-### Group work
-#### A) Groups
-**Group1** | Fatemeh, Johanna, Nicolas          
-**Group2** | Malin, Hatice Toprak, Kadri          
-**Group3** | Olav Arne, Hassan, Renate, Daniel         
-
-#### B) Group assignment     
-<img width="1139" height="602" alt="image" src="https://github.com/user-attachments/assets/b0ce130b-1695-4cd0-a884-b9b4d4a6d71c" />
-
-### Course description
-https://www4.uib.no/en/studies/courses/ccbio906     
-https://www.uib.no/en/ccbio/179177/ccbio906-cancer-genomics-2025      
-
-### Time schedule & Literature curriculum 
-Download here: https://filesender.sikt.no/?s=download&token=41a53f94-f168-4fc8-8fb0-0dc20a16b224            
-
-### PDF of all listed papers
-Download here, around 200 MB | https://filesender.sikt.no/?s=download&token=ac50cb16-3412-42d8-ae41-1d9d5ecee96c     
-(PDF of all individual papers in literature list)     
+EAH 
 
 
 
